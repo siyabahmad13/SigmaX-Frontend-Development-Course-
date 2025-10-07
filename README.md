@@ -1,2 +1,0 @@
-# SigmaX Frontend Development Course 
-
